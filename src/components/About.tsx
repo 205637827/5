@@ -8,11 +8,11 @@ export default () => (
       border-slate
       border-none
       hover:border-dashed
-      href="httpz://mxnf.tk"
+      href="https://QQ.QSNAV.COM"
       target="_blank">
     
     </a>{" "}
-   网站经常被墙，请保存永久网址：mxnf.tk
+   网站经常被墙，请保存永久网址：QQ.QSNAV.COM
     <strong>
       {" "}
       <a
@@ -39,7 +39,7 @@ export default () => (
       <span text-lg text-pink-6>
         更新
       </span>{" "}
-      APP已出!收录多个永久免费进群下载/<a href="https://gpt4.iswl.tk">点我高级GPT网站体验 </a>
+      APP已出!收录多个永久免费进群下载/<a href="https://chat.qsnav.com">点我高级GPT网站体验 </a>
     </p>
     <br></br>
     <p class="flex flex-wrap items-end mt-1">
