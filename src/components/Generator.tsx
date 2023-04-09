@@ -406,7 +406,7 @@ export default () => {
                     border-slate
                     border-none
                     hover:border-dashed
-                    href="http://img.iswl.tk/123/123.jpg"
+                    href="https://ka.qsnav.com"
                     target="_blank">
                     购买 OpenAI API 账号/密钥
                   </a> */}
@@ -417,7 +417,7 @@ export default () => {
                     border-slate
                     border-none
                     hover:border-dashed
-                    href="http://img.iswl.tk/123/123.jpg"
+                    href="https://ka.qsnav.com"
                     target="_blank">
                     购买 OpenAI API 账号/密钥
                   </a>
