@@ -44,16 +44,16 @@ export default () => (
     <br></br>
     <p class="flex flex-wrap items-end mt-1">
      官网更多黑科技{" "}
-      <a href="http://mxnf.tk" target="_blank">
+      <a href="https://qq.qsnav.com" target="_blank">
         <img src="https://img.shields.io/badge/-进入官网-fff?logo=Telegram" />
       </a>{" "}
     
-     <a href="https://sourl.cn/7dPPQn"><img src="http://img.iswl.tk/123/liuliang.png" width="2541" height="1600" alt=""/></a>
+     <a href="https://blog.wabm.cn"><img src="https://cdn.qsnav.com/2023/04/10/643384b7354b5.jpg" width="2541" height="1600" alt=""/></a>
     </p>
     
     <p class="flex flex-wrap items-end mt-1">
-     更多免费GPT{" "}
-      <a href="http://gpt.mxnf.one" target="_blank">
+     北冥资源网{" "}
+      <a href="http://www.wabm.cn" target="_blank">
         <img src="https://img.shields.io/badge/-GitHub-fff?logo=Telegram" />
       </a>{" "}
     
