@@ -334,7 +334,7 @@ export default () => {
         <details mb-4>
           <summary>
             <div class="flex justify-between items-end text-slate">
-              <p>高级设置 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://chat.qsnav.com/" style="text-align: right" color="#000000">Pro版已发，点我速度更快</a></p>
+              <p>高级设置 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://chat.qsnav.com/" style="text-align: right" color="FF0000">点我进入Pro版,授权码进群获取</a></p>
               {/* <div class="flex ml-auto items-center" text-sm>
                 <span class="online-dot mr-2.5 mt-0.03"></span>
                 <span>{online} 在线</span>
